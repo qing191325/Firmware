@@ -1,0 +1,8 @@
+RC ERR: Mandatory RC_MAP_MODE_SW is unmapped
+Not ready to fly: Sensors need inspection
+No geofence set
+settings autosaved
+[inav] baro offset: 547 m
+PREFLIGHT FAIL: MAG #0 UNCALIBRATED
+PREFLIGHT FAIL: MAG #1 UNCALIBRATED
+RC ERR: Mandatory RC_MAP_MODE_SW is unmapped
